@@ -16,4 +16,4 @@ Use **pip3** if the first one won't work which it should.
 Run  
 **python main3.py**
 
-<p>Simple Rock Paper Scissors game made in <b>Python</b>.</p>
+Simple Rock Paper Scissors game made in **Python**
