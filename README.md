@@ -6,4 +6,6 @@
 🖍️ pip install colorama<br>
 🖍️ pip3 install colorama<br>
 Run
-python main3.py
+python main3.py<br>
+<br>
+<p>Simple Rock Paper Scissors game made in <b>Python.</b></p>
